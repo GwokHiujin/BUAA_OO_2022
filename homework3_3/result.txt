@@ -1,0 +1,5000 @@
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+Ok
+ginf-1, 0-1
+ginf-2, 0-2
+rnf-1, 55-1, 226-1
+Ok
+Group does not exist
+0
+Group does not exist
+ginf-3, 0-3
+Ok
+Ok
+minf-1, 0-1
+500
+0
+einf-1, 0-1
+minf-2, 0-2
+0
+ginf-4, 0-4
+0
+Ok
+Ok
+498
+0
+0
+498
+0
+pinf-1, 506-1
+Ok
+Ok
+0
+epi-1, 93-1
+Ok
+ginf-5, 0-5
+ginf-6, 0-6
+0
+0
+0
+502
+pinf-2, 517-1
+pinf-3, 507-1
+pinf-4, 1-1
+ginf-7, 1-1
+Ok
+0
+ginf-8, 1-2
+rnf-2, 152-1, 486-1
+0
+Ok
+einf-2, 0-2
+einf-3, 0-3
+ginf-9, 0-7
+Ok
+Ok
+minf-3, 0-3
+pinf-5, 514-1
+0
+Ok
+einf-4, 0-4
+Ok
+Ok
+503
+0
+503
+Ok
+0
+rnf-3, 52-1, 374-1
+ginf-10, 1-3
+Ok
+None
+epi-2, 149-1
+ginf-11, 1-4
+0
+Ok
+Ok
+ginf-12, 1-5
+Ok
+ginf-13, 0-8
+egi-1, 3-1
+ginf-14, 1-6
+Group does not exist
+0
+rnf-4, 192-1, 346-1
+0
+Ok
+einf-5, 0-5
+0
+Group does not exist
+ginf-15, 1-7
+Group does not exist
+0
+Ok
+0
+The person with this number does not exist
+0
+epi-3, 489-1
+minf-4, 0-4
+0
+pinf-6, 552-1
+0
+Ok
+Ok
+0
+0
+Ok
+epi-4, 23-1
+ginf-16, 1-8
+0
+Ok
+rnf-5, 78-1, 279-1
+rnf-6, 365-1, 471-1
+0
+0
+504
+ginf-17, 1-9
+Ok
+minf-5, 0-5
+Ok
+Ok
+Ok
+0
+pinf-7, 561-1
+ginf-18, 0-9
+ginf-19, 0-10
+Ok
+0
+0
+eei-1, 0-1
+minf-6, 0-6
+None
+Ok
+rnf-7, 48-1, 370-1
+Ok
+minf-7, 1-1
+0
+501
+None
+ginf-20, 1-10
+Ok
+Ok
+0
+rnf-8, 193-1, 321-1
+Ok
+emi-1, 2-1
+pinf-8, 555-1
+pinf-9, 551-1
+Ok
+0
+0
+Ok
+The person with this number does not exist
+0
+0
+0
+0
+None
+pinf-10, 532-1
+einf-6, 0-6
+Ok
+ginf-21, 0-11
+Ok
+Ok
+0
+-1
+0
+Ok
+500
+Ok
+Ok
+0
+None
+einf-7, 2-1
+0
+0
+Ok
+Ok
+0
+Ok
+0
+minf-8, 1-2
+0
+499
+ginf-22, 1-11
+Ok
+500
+0
+0
+None
+500
+0
+Ok
+0
+rnf-9, 236-1, 451-1
+Ok
+0
+0
+einf-8, 3-1
+Ok
+Ok
+einf-9, 1-1
+emi-2, 3-1
+The person with this number does not exist
+Ok
+501
+epi-5, 64-1
+0
+ginf-23, 1-12
+0
+Ok
+0
+Ok
+Ok
+Ok
+0
+emi-3, 261-1
+0
+Ok
+0
+Ok
+0
+The person with this number does not exist
+Ok
+0
+Ok
+pinf-11, 522-1
+Ok
+Ok
+Ok
+0
+Group does not exist
+0
+502
+Ok
+ginf-24, 1-13
+minf-9, 1-3
+0
+Ok
+None
+Ok
+Ok
+minf-10, 1-4
+Ok
+0
+500
+eei-2, 1-1
+Ok
+0
+None
+None
+minf-11, 0-7
+-1
+einf-10, 4-1
+einf-11, 5-1
+0
+Ok
+Group does not exist
+pinf-12, 562-1
+0
+Ok
+Ok
+None
+-1
+epi-6, 402-1
+Ok
+Ok
+emi-4, 443-1
+0
+Ok
+None
+Ok
+-1
+0
+The person with this number does not exist
+0
+1
+Ok
+Ok
+0
+Ok
+Ok
+Ok
+Ok
+Ok
+rnf-10, 228-1, 425-1
+0
+egi-2, 0-1
+Ok
+0
+0
+0
+0
+Ok
+Ok
+515
+502
+Ok
+0
+0
+0
+einf-12, 7-1
+epi-7, 516-1
+The person with this number does not exist
+einf-13, 8-1
+Ok
+Ok
+0
+epi-8, 349-1
+516
+0
+minf-12, 0-8
+0
+Ok
+Ok
+Ok
+Ok
+0
+Ok
+0
+517
+minf-13, 0-9
+Ok
+0
+einf-14, 9-1
+517
+-1
+517
+einf-15, 7-2
+Ok
+ginf-25, 1-14
+Ok
+minf-14, 1-5
+Group does not exist
+505
+pinf-13, 526-1
+Ok
+Ok
+einf-16, 10-1
+0
+epi-9, 241-1
+None
+None
+einf-17, 1-2
+einf-18, 11-1
+epi-10, 44-1
+Ok
+506
+0
+506
+Ok
+Ok
+epi-11, 92-1
+521
+Ok
+1
+0
+508
+None
+508
+Ok
+0
+ginf-26, 1-15
+einf-19, 7-3
+0
+Ok
+Ok
+0
+rnf-11, 8-1, 345-1
+minf-15, 0-10
+epi-12, 287-1
+Ok
+Ok
+The person with this number does not exist
+Ok
+0
+0
+0
+521
+Ok
+Ok
+Ok
+0
+Ok
+epi-13, 95-1
+0
+509
+The person with this number does not exist
+509
+0
+Ok
+0
+0
+minf-16, 1-6
+The person with this number does not exist
+0
+Ok
+0
+epi-14, 97-1
+1
+0
+Ok
+Ok
+0
+ginf-27, 1-16
+0
+Ok
+Ok
+Ok
+pinf-14, 582-1
+0
+1
+einf-20, 1-3
+524
+Ok
+None
+pinf-15, 474-1
+einf-21, 12-1
+1
+524
+rnf-12, 299-1, 376-1
+0
+524
+Ok
+0
+0
+minf-17, 8-1
+Ok
+Ok
+pinf-16, 560-1
+einf-22, 4-2
+Ok
+Ok
+None
+Ok
+0
+0
+egi-3, 0-2
+Ok
+0
+524
+0
+rnf-13, 293-1, 341-1
+epi-15, 29-1
+Ok
+None
+einf-23, 1-4
+Ok
+Ok
+Ok
+minf-18, 7-1
+0
+einf-24, 13-1
+minf-19, 6-1
+Ok
+None
+507
+minf-20, 7-2
+einf-25, 5-2
+Ok
+rnf-14, 236-2, 275-1
+0
+0
+Ok
+eei-3, 4-1
+0
+1
+Ok
+Ok
+minf-21, 7-3
+einf-26, 0-7
+epi-16, 367-1
+pinf-17, 550-1
+0
+0
+0
+Ok
+Ok
+509
+epi-17, 17-1
+Ok
+pinf-18, 562-2
+minf-22, 7-4
+epi-18, 297-1
+527
+0
+pinf-19, 529-1
+Ok
+-1
+528
+0
+Ok
+0
+0
+Ok
+minf-23, 6-2
+528
+0
+Ok
+528
+None
+Ok
+pinf-20, 576-1
+0
+0
+Ok
+einf-27, 9-2
+0
+0
+rnf-15, 79-1, 351-1
+rnf-16, 78-2, 113-1
+0
+Ok
+0
+Ok
+0
+528
+528
+0
+epi-19, 42-1
+0
+Ok
+Ok
+minf-24, 0-11
+Group does not exist
+pinf-21, 542-1
+rnf-17, 434-1, 486-2
+Ok
+einf-28, 10-2
+Ok
+0
+Ok
+einf-29, 10-3
+pinf-22, 60-1
+einf-30, 8-2
+Ok
+0
+Ok
+Ok
+None
+Ok
+pinf-23, 554-1
+Ok
+Ok
+Ok
+0
+529
+0
+Ok
+None
+511
+minf-25, 9-1
+rnf-18, 259-1, 307-1
+0
+pinf-24, 586-1
+einf-31, 10-4
+ginf-28, 1-17
+0
+emi-5, 4-1
+511
+minf-26, 0-12
+None
+Ok
+1
+0
+Ok
+2
+0
+Ok
+minf-27, 16-1
+0
+minf-28, 13-1
+minf-29, 13-2
+0
+Ok
+Ok
+0
+Ok
+Ok
+0
+0
+530
+epi-20, 310-1
+The person with this number does not exist
+pinf-25, 60-2
+epi-21, 433-1
+Ok
+0
+minf-30, 7-5
+einf-32, 14-1
+0
+Ok
+0
+510
+Ok
+0
+0
+pinf-26, 240-1
+530
+0
+Ok
+rnf-19, 163-1, 202-1
+minf-31, 1-7
+None
+Ok
+532
+0
+Ok
+0
+Ok
+ginf-29, 1-18
+0
+0
+532
+0
+0
+0
+0
+Ok
+emi-6, 19-1
+einf-33, 12-2
+0
+None
+533
+513
+0
+Ok
+einf-34, 4-3
+0
+533
+pinf-27, 538-1
+0
+rnf-20, 41-1, 270-1
+emi-7, 3-2
+rnf-21, 204-1, 264-1
+Ok
+Ok
+0
+ginf-30, 1-19
+Ok
+0
+rnf-22, 41-2, 270-2
+rnf-23, 69-1, 463-1
+514
+0
+0
+534
+Ok
+534
+0
+0
+ginf-31, 1-20
+rnf-24, 149-1, 378-1
+pinf-28, 559-1
+2
+Ok
+einf-35, 4-4
+pinf-29, 554-2
+rnf-25, 271-1, 367-1
+The person with this number does not exist
+eei-4, 8-1
+0
+Ok
+pinf-30, 240-2
+Ok
+pinf-31, 586-2
+pinf-32, 19-1
+epi-22, 214-1
+Ok
+None
+Ok
+epi-23, 71-1
+None
+0
+Ok
+einf-36, 3-2
+None
+0
+einf-37, 16-1
+Ok
+514
+Ok
+514
+Ok
+Ok
+512
+0
+Ok
+Ok
+0
+0
+einf-38, 17-1
+Ok
+Ok
+einf-39, 4-5
+emi-8, 13-1
+epi-24, 399-1
+pinf-33, 540-1
+0
+535
+Ok
+rnf-26, 191-1, 410-1
+1
+epi-25, 378-1
+2
+Ok
+Ok
+0
+einf-40, 18-1
+Ok
+Ok
+0
+0
+0
+0
+rnf-27, 156-1, 489-1
+None
+Ok
+einf-41, 19-1
+0
+515
+rnf-28, 176-1, 442-1
+Ok
+Ok
+0
+0
+epi-26, 267-1
+pinf-34, 588-1
+538
+rnf-29, 104-1, 469-1
+pinf-35, 547-1
+None
+Ok
+einf-42, 2-2
+ginf-32, 1-21
+Ok
+Ok
+0
+Ok
+1
+324
+0
+514
+Ok
+None
+Ok
+0
+0
+0
+0
+0
+rnf-30, 86-1, 312-1
+0
+0
+Ok
+539
+Ok
+Ok
+Ok
+540
+None
+einf-43, 20-1
+The person with this number does not exist
+None
+einf-44, 21-1
+pinf-36, 561-2
+einf-45, 22-1
+Ok
+516
+0
+Ok
+Ok
+Ok
+541
+epi-27, 539-1
+pinf-37, 588-2
+Ok
+The person with this number does not exist
+6241
+emi-9, 16-1
+rnf-31, 163-2, 202-2
+pinf-38, 581-1
+541
+Ok
+Ok
+einf-46, 23-1
+None
+Ok
+541
+541
+Ok
+Ok
+Ok
+rnf-32, 144-1, 540-1
+Ok
+Ok
+Ok
+Ok
+rnf-33, 83-1, 359-1
+Ok
+0
+einf-47, 14-2
+0
+0
+0
+pinf-39, 568-1
+The person with this number does not exist
+pinf-40, 146-1
+minf-32, 1-8
+einf-48, 15-1
+0
+0
+Ok
+Ok
+517
+einf-49, 8-3
+pinf-41, 573-1
+None
+517
+emi-10, 90-1
+0
+epi-28, 167-1
+0
+Ok
+Ok
+0
+rnf-34, 275-2, 359-2
+The person with this number does not exist
+Ok
+pinf-42, 165-1
+1
+Ok
+0
+emi-11, 26-1
+The person with this number does not exist
+Ok
+516
+Ok
+epi-29, 330-1
+Ok
+0
+epi-30, 13-1
+0
+0
+0
+544
+0
+0
+Ok
+0
+Ok
+Ok
+545
+Ok
+pinf-43, 548-1
+Ok
+516
+Ok
+None
+546
+0
+0
+Ok
+rnf-35, 172-1, 497-1
+Ok
+0
+pinf-44, 60-3
+0
+rnf-36, 26-1, 353-1
+rnf-37, 163-3, 202-3
+Ok
+Ok
+0
+Ok
+Ok
+2
+519
+548
+0
+Ok
+Ok
+Ok
+0
+Ok
+519
+einf-50, 13-2
+epi-31, 48-1
+0
+Ok
+pinf-45, 608-1
+0
+einf-51, 25-1
+einf-52, 11-2
+520
+pinf-46, 558-1
+0
+Ok
+Ok
+ginf-33, 1-22
+einf-53, 11-3
+rnf-38, 72-1, 252-1
+0
+520
+Ok
+rnf-39, 134-1, 289-1
+Ok
+None
+einf-54, 26-1
+Ok
+520
+0
+rnf-40, 86-2, 312-2
+Ok
+521
+Ok
+0
+Ok
+pinf-47, 19-2
+Ok
+Ok
+0
+Ok
+pinf-48, 609-1
+Ok
+1
+rnf-41, 107-1, 490-1
+Ok
+Ok
+Ok
+0
+Ok
+Ok
+Ok
+epi-32, 89-1
+emi-12, 132-1
+Ok
+epi-33, 277-1
+Ok
+0
+Ok
+The person with this number does not exist
+Ok
+pinf-49, 606-1
+552
+519
+2
+519
+Ok
+ginf-34, 1-23
+0
+1849
+epi-34, 93-2
+einf-55, 29-1
+Ok
+Ok
+Group does not exist
+Ok
+521
+554
+None
+0
+Ok
+Ok
+rnf-42, 163-4, 202-4
+3
+0
+0
+einf-56, 28-1
+emi-13, 22-1
+The person with this number does not exist
+pinf-50, 598-1
+Ok
+The person with this number does not exist
+0
+0
+epi-35, 11-1
+Ok
+Ok
+0
+einf-57, 29-2
+Ok
+2
+0
+Ok
+Ok
+Ok
+Ok
+The person with this number does not exist
+0
+epi-36, 178-1
+epi-37, 174-1
+Ok
+emi-14, 3-3
+Ok
+einf-58, 31-1
+minf-33, 1-9
+emi-15, 13-2
+Ok
+pinf-51, 596-1
+0
+einf-59, 8-4
+ginf-35, 1-24
+Ok
+epi-38, 334-1
+None
+pinf-52, 589-1
+pinf-53, 379-1
+0
+The person with this number does not exist
+rnf-43, 42-1, 509-1
+rnf-44, 176-2, 442-2
+2
+0
+0
+0
+Ok
+einf-60, 4-6
+The person with this number does not exist
+0
+emi-16, 132-2
+555
+0
+0
+Ok
+Ok
+None
+1
+rnf-45, 113-2, 507-1
+einf-61, 33-1
+3208
+0
+523
+0
+rnf-46, 105-1, 316-1
+0
+Ok
+0
+Ok
+Ok
+pinf-54, 602-1
+einf-62, 10-5
+einf-63, 9-3
+The person with this number does not exist
+Ok
+Ok
+557
+0
+emi-17, 33-1
+0
+einf-64, 34-1
+Ok
+Ok
+4
+0
+ginf-36, 1-25
+557
+Ok
+None
+Ok
+0
+einf-65, 35-1
+einf-66, 32-1
+None
+1
+epi-39, 445-1
+0
+Ok
+Ok
+rnf-47, 298-1, 367-2
+0
+Ok
+rnf-48, 220-1, 453-1
+Ok
+Ok
+559
+einf-67, 1-5
+Ok
+emi-18, 2-2
+Ok
+pinf-55, 604-1
+0
+0
+Ok
+Ok
+Ok
+einf-68, 26-2
+epi-40, 435-1
+0
+523
+523
+Ok
+minf-34, 36-1
+Ok
+Ok
+Ok
+pinf-56, 565-1
+1
+pinf-57, 566-1
+rnf-49, 408-1, 452-1
+einf-69, 28-2
+0
+735
+Ok
+None
+Ok
+Ok
+2
+rnf-50, 317-1, 354-1
+560
+pinf-58, 165-2
+0
+Group does not exist
+0
+Ok
+560
+Ok
+rnf-51, 359-3, 430-1
+The person with this number does not exist
+Ok
+524
+0
+The person with this number does not exist
+None
+Ok
+Ok
+Ok
+0
+pinf-59, 575-1
+Ok
+Ok
+525
+Ok
+Ok
+Ok
+Ok
+pinf-60, 605-1
+0
+Ok
+0
+None
+einf-70, 0-8
+0
+526
+einf-71, 24-1
+einf-72, 33-2
+rnf-52, 163-5, 202-5
+einf-73, 36-1
+0
+None
+Ok
+rnf-53, 191-2, 415-1
+Ok
+None
+Ok
+Ok
+0
+pinf-61, 60-4
+0
+562
+emi-19, 39-1
+Ok
+0
+Ok
+einf-74, 36-2
+0
+0
+0
+rnf-54, 39-1, 265-1
+Ok
+0
+None
+The person with this number does not exist
+epi-41, 389-1
+Ok
+0
+0
+0
+pinf-62, 240-3
+einf-75, 37-1
+0
+0
+Ok
+epi-42, 237-1
+Ok
+None
+einf-76, 32-2
+Ok
+Ok
+Ok
+563
+Ok
+0
+563
+Ok
+0
+Ok
+Ok
+epi-43, 37-1
+0
+Ok
+Ok
+0
+0
+0
+The person with this number does not exist
+Ok
+524
+1
+0
+einf-77, 38-1
+epi-44, 264-1
+Ok
+minf-35, 43-1
+None
+pinf-63, 595-1
+rnf-55, 106-1, 446-1
+pinf-64, 579-1
+None
+0
+None
+0
+Ok
+Ok
+Ok
+Ok
+None
+minf-36, 23-1
+None
+1849
+Ok
+0
+563
+pinf-65, 151-1
+epi-45, 451-1
+0
+Ok
+0
+einf-78, 8-5
+Ok
+Ok
+0
+0
+525
+The person with this number does not exist
+0
+emi-20, 30-1
+4
+Ok
+Ok
+Ok
+emi-21, 19-2
+Ok
+0
+rnf-56, 5-1, 147-1
+rnf-57, 68-1, 303-1
+einf-79, 39-1
+564
+emi-22, 14-1
+0
+0
+The person with this number does not exist
+Ok
+525
+pinf-66, 625-1
+0
+Ok
+einf-80, 27-1
+Ok
+0
+Ok
+566
+Ok
+Ok
+The person with this number does not exist
+0
+einf-81, 42-1
+The person with this number does not exist
+Ok
+Ok
+529
+The person with this number does not exist
+emi-23, 46-1
+0
+The person with this number does not exist
+0
+0
+Ok
+Ok
+None
+0
+pinf-67, 614-1
+None
+0
+0
+Ok
+emi-24, 95-1
+rnf-58, 176-3, 442-3
+530
+einf-82, 44-1
+0
+0
+Ok
+0
+Ok
+The person with this number does not exist
+569
+0
+rnf-59, 335-1, 484-1
+1
+ginf-37, 1-26
+emi-25, 305-1
+530
+569
+minf-37, 49-1
+Ok
+529
+Ok
+Ok
+Ok
+emi-26, 33-2
+570
+Ok
+0
+2
+570
+einf-83, 28-3
+Ok
+pinf-68, 165-3
+0
+530
+3
+0
+0
+Ok
+ginf-38, 1-27
+0
+0
+None
+Ok
+Ok
+0
+Ok
+0
+rnf-60, 237-1, 304-1
+emi-27, 476-1
+emi-28, 29-1
+rnf-61, 100-1, 340-1
+570
+The person with this number does not exist
+emi-29, 39-2
+pinf-69, 53-1
+Ok
+pinf-70, 629-1
+571
+Ok
+571
+Ok
+Ok
+572
+0
+einf-84, 45-1
+emi-30, 101-1
+572
+None
+None
+rnf-62, 41-3, 270-3
+4241
+0
+572
+einf-85, 46-1
+einf-86, 23-2
+0
+1
+1
+pinf-71, 590-1
+Ok
+530
+0
+0
+0
+7
+epi-46, 110-1
+None
+0
+einf-87, 26-3
+pinf-72, 581-2
+emi-31, 443-2
+Ok
+Ok
+0
+4241
+Ok
+None
+530
+530
+0
+epi-47, 544-1
+Ok
+0
+0
+epi-48, 116-1
+Ok
+einf-88, 46-2
+0
+pinf-73, 146-2
+einf-89, 47-1
+pinf-74, 0-1
+None
+Ok
+0
+0
+156
+Ok
+The person with this number does not exist
+7
+None
+0
+einf-90, 48-1
+Ok
+Ok
+emi-32, 93-1
+epi-49, 235-1
+530
+Ok
+epi-50, 541-1
+573
+0
+1089
+530
+530
+Ok
+Ok
+0
+Ok
+Ok
+Ok
+einf-91, 40-1
+573
+Ok
+573
+3
+Ok
+Ok
+0
+0
+Ok
+Ok
+Ok
+einf-92, 47-2
+573
+Ok
+einf-93, 49-1
+pinf-75, 491-1
+573
+pinf-76, 600-1
+529
+0
+Ok
+emi-33, 11-1
+pinf-77, 282-1
+Ok
+None
+0
+528
+528
+The person with this number does not exist
+Ok
+528
+rnf-63, 41-4, 270-4
+None
+Ok
+0
+None
+Ok
+pinf-78, 19-3
+pinf-79, 621-1
+Ok
+None
+0
+rnf-64, 507-2, 521-1
+Ok
+Ok
+Ok
+3
+emi-34, 473-1
+0
+Ok
+0
+0
+Ok
+einf-94, 26-4
+Ok
+None
+Ok
+Ok
+Ok
+0
+Ok
+pinf-80, 379-2
+rnf-65, 234-1, 387-1
+0
+einf-95, 50-1
+None
+Ok
+The person with this number does not exist
+Ok
+0
+Ok
+578
+None
+0
+rnf-66, 26-2, 539-1
+3706
+Ok
+Ok
+Ok
+0
+epi-51, 99-1
+pinf-81, 0-2
+0
+Ok
+530
+0
+530
+einf-96, 50-2
+0
+Ok
+None
+Ok
+einf-97, 51-1
+emi-35, 301-1
+emi-36, 362-1
+Ok
+Ok
+Ok
+0
+Ok
+einf-98, 37-2
+0
+3
+eei-5, 50-1
+0
+None
+einf-99, 16-2
+531
+pinf-82, 474-2
+emi-37, 261-2
+0
+Ok
+Ok
+Ok
+Ok
+Ok
+531
+0
+einf-100, 52-1
+The person with this number does not exist
+epi-52, 155-1
+pinf-83, 631-1
+pinf-84, 589-2
+581
+5
+250
+Ok
+531
+Ok
+0
+0
+0
+minf-38, 43-2
+Ok
+epi-53, 26-1
+0
+Ok
+einf-101, 17-2
+Ok
+epi-54, 242-1
+emi-38, 557-1
+0
+0
+Ok
+epi-55, 148-1
+Ok
+pinf-85, 610-1
+pinf-86, 618-1
+minf-39, 23-2
+Ok
+0
+rnf-67, 297-1, 319-1
+pinf-87, 589-3
+529
+3591
+ginf-39, 1-28
+Ok
+0
+529
+0
+epi-56, 321-1
+emi-39, 220-1
+rnf-68, 151-1, 242-1
+Ok
+Ok
+einf-102, 53-1
+581
+pinf-88, 372-1
+rnf-69, 313-1, 420-1
+Ok
+rnf-70, 200-1, 492-1
+0
+Ok
+0
+eei-6, 54-1
+pinf-89, 604-2
+The person with this number does not exist
+582
+Ok
+0
+Ok
+Ok
+0
+582
+Ok
+1
+Ok
+531
+rnf-71, 72-2, 518-1
+The person with this number does not exist
+einf-103, 57-1
+None
+Ok
+0
+0
+Ok
+minf-40, 0-13
+Ok
+ginf-40, 1-29
+Ok
+0
+250
+Ok
+Ok
+Ok
+0
+epi-57, 459-1
+Ok
+rnf-72, 97-1, 206-1
+pinf-90, 372-2
+0
+0
+The person with this number does not exist
+pinf-91, 599-1
+einf-104, 29-3
+0
+Ok
+epi-58, 51-1
+rnf-73, 142-1, 548-1
+532
+Ok
+emi-40, 320-1
+rnf-74, 106-2, 362-1
+0
+0
+0
+einf-105, 25-2
+533
+0
+533
+pinf-92, 151-2
+Ok
+einf-106, 54-1
+0
+Ok
+Ok
+Ok
+0
+0
+einf-107, 37-3
+Ok
+0
+epi-59, 27-1
+Ok
+0
+pinf-93, 650-1
+pinf-94, 604-3
+Ok
+Ok
+einf-108, 52-2
+587
+2
+Ok
+587
+587
+534
+0
+pinf-95, 616-1
+None
+rnf-75, 50-1, 445-1
+0
+587
+Ok
+Ok
+0
+Ok
+0
+2
+emi-41, 473-2
+Ok
+0
+einf-109, 32-3
+0
+0
+0
+pinf-96, 632-1
+emi-42, 37-1
+Ok
+Ok
+Ok
+epi-60, 415-1
+0
+587
+None
+epi-61, 511-1
+pinf-97, 623-1
+emi-43, 459-1
+Ok
+5
+587
+einf-110, 56-1
+Ok
+0
+Ok
+pinf-98, 635-1
+emi-44, 550-1
+0
+Ok
+einf-111, 45-2
+Ok
+einf-112, 2-3
+Ok
+0
+588
+rnf-76, 151-2, 213-1
+rnf-77, 375-1, 385-1
+0
+None
+rnf-78, 221-1, 282-1
+Ok
+emi-45, 37-2
+Ok
+None
+2
+Ok
+Ok
+Ok
+minf-41, 43-3
+pinf-99, 601-1
+ginf-41, 1-30
+Ok
+0
+Ok
+2178
+0
+0
+Ok
+533
+Ok
+Ok
+0
+einf-113, 57-2
+4484
+0
+0
+588
+2
+Ok
+Ok
+pinf-100, 642-1
+emi-46, 137-1
+pinf-101, 156-1
+pinf-102, 595-2
+The person with this number does not exist
+Ok
+0
+Ok
+einf-114, 3-3
+einf-115, 34-2
+None
+Ok
+Ok
+Ok
+None
+pinf-103, 606-2
+Ok
+0
+536
+pinf-104, 595-3
+0
+einf-116, 50-3
+Ok
+Ok
+Ok
+591
+0
+None
+Ok
+rnf-79, 357-1, 473-1
+0
+Ok
+Ok
+8
+591
+0
+0
+ginf-42, 1-31
+0
+2
+591
+2
+Ok
+Ok
+Ok
+None
+pinf-105, 647-1
+einf-117, 60-1
+einf-118, 60-2
+591
+Ok
+533
+0
+Ok
+0
+591
+533
+Ok
+pinf-106, 618-2
+Ok
+Ok
+Ok
+0
+Ok
+1089
+0
+einf-119, 61-1
+emi-47, 517-1
+592
+0
+0
+Ok
+Ok
+0
+epi-62, 270-1
+pinf-107, 372-3
+156
+0
+534
+0
+534
+Ok
+The person with this number does not exist
+rnf-80, 249-1, 556-1
+0
+Ok
+The person with this number does not exist
+593
+Ok
+Ok
+Ok
+Ok
+487
+Ok
+Ok
+The person with this number does not exist
+1
+None
+Ok
+Ok
+0
+Ok
+pinf-108, 638-1
+ginf-43, 1-32
+einf-120, 25-3
+Ok
+Ok
+Ok
+Ok
+536
+rnf-81, 172-2, 497-2
+0
+Ok
+Ok
+5
+0
+epi-63, 10-1
+Ok
+Ok
+einf-121, 63-1
+4
+The person with this number does not exist
+Ok
+1089
+1
+einf-122, 29-4
+0
+minf-42, 52-1
+pinf-109, 644-1
+0
+4
+None
+Ok
+Ok
+0
+None
+Ok
+0
+1074
+Ok
+Ok
+Ok
+600
+None
+Ok
+538
+Ok
+Ok
+epi-64, 46-1
+Ok
+einf-123, 38-2
+537
+Ok
+emi-48, 91-1
+einf-124, 63-2
+537
+emi-49, 18-1
+Ok
+5926
+emi-50, 13-3
+Ok
+0
+epi-65, 151-1
+0
+5
+Ok
+einf-125, 64-1
+1990
+Ok
+601
+None
+601
+The person with this number does not exist
+601
+None
+Ok
+Ok
+601
+einf-126, 20-2
+Ok
+Ok
+Ok
+Ok
+9
+pinf-110, 427-1
+rnf-82, 70-1, 298-2
+0
+Ok
+0
+539
+0
+None
+einf-127, 26-5
+The person with this number does not exist
+3411
+Ok
+3242
+None
+Ok
+Ok
+250
+einf-128, 67-1
+Ok
+Ok
+emi-51, 10-1
+0
+None
+602
+The person with this number does not exist
+602
+0
+einf-129, 70-1
+Ok
+0
+602
+Ok
+0
+einf-130, 68-1
+pinf-111, 618-3
+602
+0
+pinf-112, 663-1
+538
+pinf-113, 263-1
+0
+0
+Ok
+0
+0
+emi-52, 70-1
+rnf-83, 57-1, 130-1
+pinf-114, 645-1
+epi-66, 257-1
+0
+0
+602
+0
+3
+538
+einf-131, 69-1
+Ok
+Ok
+Ok
+Ok
+emi-53, 71-1
+The person with this number does not exist
+Ok
+pinf-115, 282-2
+2
+0
+epi-67, 275-1
+Ok
+pinf-116, 627-1
+Ok
+pinf-117, 641-1
+0
+rnf-84, 85-1, 330-1
+Ok
+Ok
+Ok
+0
+604
+0
+0
+Ok
+einf-132, 70-2
+5
+rnf-85, 275-3, 359-4
+einf-133, 53-2
+0
+Ok
+emi-54, 26-2
+minf-43, 81-1
+emi-55, 79-1
+emi-56, 74-1
+ginf-44, 1-33
+0
+2
+pinf-118, 609-2
+Ok
+Ok
+minf-44, 78-1
+einf-134, 9-4
+0
+Ok
+0
+The person with this number does not exist
+pinf-119, 623-2
+Ok
+Ok
+emi-57, 17-1
+Ok
+einf-135, 71-1
+emi-58, 53-1
+Ok
+3
+541
+epi-68, 366-1
+541
+Ok
+0
+Ok
+3
+2370
+539
+epi-69, 582-1
+539
+0
+None
+rnf-86, 208-1, 555-1
+epi-70, 35-1
+5
+539
+epi-71, 142-1
+The person with this number does not exist
+539
+0
+None
+The person with this number does not exist
+rnf-87, 313-2, 420-2
+2
+Ok
+0
+665
+einf-136, 47-3
+rnf-88, 163-6, 202-6
+2209
+emi-59, 79-2
+Ok
+5
+minf-45, 64-1
+605
+pinf-120, 131-1
+605
+einf-137, 21-2
+3411
+0
+rnf-89, 191-3, 518-2
+pinf-121, 131-2
+Ok
+4
+Ok
+540
+pinf-122, 626-1
+Ok
+0
+epi-72, 99-2
+540
+Ok
+4241
+Ok
+pinf-123, 617-1
+2370
+Ok
+Ok
+None
+0
+608
+Ok
+pinf-124, 156-2
+3
+None
+0
+0
+pinf-125, 635-2
+2
+541
+Ok
+einf-138, 64-2
+Ok
+emi-60, 76-1
+Ok
+epi-73, 289-1
+epi-74, 368-1
+pinf-126, 630-1
+Ok
+Ok
+0
+emi-61, 224-1
+0
+rnf-90, 318-1, 338-1
+Ok
+Ok
+The person with this number does not exist
+Ok
+0
+epi-75, 546-1
+0
+einf-139, 30-1
+pinf-127, 634-1
+None
+Ok
+543
+The person with this number does not exist
+Ok
+None
+Ok
+5
+611
+Ok
+rnf-91, 22-1, 33-1
+0
+5
+4293
+Ok
+0
+Ok
+0
+0
+0
+Ok
+4
+Ok
+rnf-92, 123-1, 438-1
+epi-76, 451-2
+epi-77, 107-1
+einf-140, 12-3
+Ok
+0
+Ok
+Ok
+rnf-93, 106-3, 362-2
+Ok
+Ok
+0
+487
+Ok
+pinf-128, 629-2
+Ok
+0
+emi-62, 10-2
+einf-141, 72-1
+pinf-129, 263-2
+The person with this number does not exist
+Ok
+156
+4339
+rnf-94, 253-1, 443-1
+epi-78, 421-1
+Ok
+543
+543
+Ok
+5
+Ok
+ginf-45, 1-34
+Ok
+614
+0
+ginf-46, 1-35
+Ok
+rnf-95, 573-1, 584-1
+emi-63, 40-1
+Ok
+einf-142, 24-2
+rnf-96, 71-1, 486-3
+2
+0
+0
+Ok
+Ok
+614
+614
+2
+Ok
+pinf-130, 49-1
+Ok
+614
+rnf-97, 124-1, 431-1
+Ok
+rnf-98, 29-1, 484-2
+Ok
+0
+Ok
+250
+emi-64, 79-3
+Ok
+pinf-131, 643-1
+542
+Ok
+Ok
+Ok
+5
+Ok
+epi-79, 538-1
+Ok
+Ok
+Ok
+0
+The person with this number does not exist
+Ok
+Ok
+The person with this number does not exist
+Ok
+Ok
+9
+The person with this number does not exist
+emi-65, 558-1
+Ok
+Ok
+540
+540
+emi-66, 84-1
+The person with this number does not exist
+614
+0
+Ok
+The person with this number does not exist
+3629
+3
+Ok
+einf-143, 21-3
+rnf-99, 359-5, 551-1
+einf-144, 35-2
+rnf-100, 333-1, 348-1
+614
+0
+epi-80, 613-1
+1074
+pinf-132, 681-1
+None
+emi-67, 225-1
+0
+Ok
+540
+7
+rnf-101, 34-1, 166-1
+8
+None
+epi-81, 50-1
+540
+rnf-102, 246-1, 373-1
+einf-145, 42-2
+epi-82, 60-1
+614
+The person with this number does not exist
+Ok
+Ok
+Ok
+The person with this number does not exist
+539
+rnf-103, 146-1, 208-2
+Ok
+Ok
+615
+Ok
+Ok
+Ok
+0
+rnf-104, 137-1, 458-1
+Ok
+emi-68, 454-1
+emi-69, 86-1
+Ok
+616
+Ok
+emi-70, 26-3
+0
+ginf-47, 1-36
+Ok
+Ok
+emi-71, 9-1
+0
+0
+None
+616
+ginf-48, 1-37
+einf-146, 77-1
+3165
+Ok
+0
+0
+Ok
+einf-147, 78-1
+Ok
+rnf-105, 357-2, 443-2
+617
+Ok
+618
+epi-83, 485-1
+Ok
+Ok
+5
+minf-46, 92-1
+618
+pinf-133, 641-2
+Ok
+emi-72, 544-1
+540
+2
+0
+emi-73, 362-2
+Ok
+Ok
+2944
+rnf-106, 118-1, 287-1
+Ok
+0
+Ok
+4
+einf-148, 43-1
+Ok
+emi-74, 5-1
+emi-75, 89-1
+Ok
+0
+619
+0
+rnf-107, 169-1, 423-1
+None
+emi-76, 467-1
+Ok
+emi-77, 501-1
+9
+pinf-134, 685-1
+Ok
+Ok
+einf-149, 79-1
+0
+pinf-135, 686-1
+619
+Ok
+Group does not exist
+0
+0
+619
+epi-84, 120-1
+0
+epi-85, 260-1
+The person with this number does not exist
+Ok
+einf-150, 30-2
+0
+rnf-108, 69-2, 233-1
+0
+0
+emi-78, 195-1
+The person with this number does not exist
+619
+0
+539
+665
+5
+1513
+539
+Ok
+0
+Ok
+rnf-109, 29-2, 70-2
+pinf-136, 658-1
+538
+0
+einf-151, 82-1
+einf-152, 83-1
+Ok
+Ok
+Ok
+Ok
+537
+None
+3298
+Ok
+0
+None
+emi-79, 90-2
+epi-86, 445-2
+2471
+1
+einf-153, 56-2
+pinf-137, 474-3
+The person with this number does not exist
+pinf-138, 663-2
+Ok
+Ok
+Ok
+emi-80, 62-1
+536
+pinf-139, 658-2
+Ok
+0
+epi-87, 610-1
+0
+Ok
+0
+einf-154, 51-2
+0
+Ok
+0
+epi-88, 613-2
+2370
+pinf-140, 666-1
+ginf-49, 1-38
+einf-155, 24-3
+0
+Ok
+0
+665
+pinf-141, 656-1
+1513
+Ok
+emi-81, 35-1
+emi-82, 79-4
+rnf-110, 111-1, 155-1
+pinf-142, 665-1
+Ok
+2209
+emi-83, 93-2
+rnf-111, 318-2, 338-2
+Ok
+Ok
+Ok
+0
+5
+einf-156, 52-3
+Ok
+Ok
+Ok
+ginf-50, 1-39
+rnf-112, 70-3, 298-3
+emi-84, 95-2
+emi-85, 78-1
+einf-157, 25-4
+Ok
+ginf-51, 1-40
+The person with this number does not exist
+Ok
+537
+epi-89, 18-1
+620
+rnf-113, 73-1, 215-1
+5
+Ok
+9
+pinf-143, 658-3
+Ok
+620
+pinf-144, 282-3
+Ok
+The person with this number does not exist
+0
+0
+pinf-145, 17-1
+0
+rnf-114, 366-1, 571-1
+Ok
+epi-90, 513-1
+0
+620
+pinf-146, 653-1
+Ok
+Ok
+Ok
+0
+538
+Ok
+0
+Ok
+0
+621
+einf-158, 8-6
+rnf-115, 325-1, 537-1
+Ok
+0
+622
+Ok
+0
+0
+Ok
+The person with this number does not exist
+epi-91, 465-1
+pinf-147, 625-2
+0
+rnf-116, 429-1, 439-1
+None
+epi-92, 552-1
+0
+Ok
+539
+rnf-117, 64-1, 324-1
+rnf-118, 151-3, 175-1
+None
+Ok
+2209
+622
+2209
+Ok
+rnf-119, 239-1, 610-1
+Ok
+The person with this number does not exist
+Ok
+622
+rnf-120, 67-1, 499-1
+emi-86, 81-1
+emi-87, 394-1
+10
+Ok
+epi-93, 314-1
+0
+Ok
+einf-159, 3-4
+Ok
+623
+Ok
+rnf-121, 65-1, 517-1
+Ok
+0
+Ok
+353
+3629
+0
+rnf-122, 83-2, 213-2
+0
+0
+pinf-148, 627-2
+Ok
+emi-88, 5-2
+einf-160, 85-1
+0
+None
+epi-94, 106-1
+0
+623
+0
+3
+epi-95, 94-1
+None
+Ok
+623
+Ok
+pinf-149, 693-1
+pinf-150, 677-1
+Ok
+einf-161, 86-1
+None
+Ok
+None
+Ok
+einf-162, 39-2
+0
+Ok
+epi-96, 508-1
+0
+Ok
+0
+540
+Ok
+2370
+Ok
+emi-89, 99-1
+epi-97, 133-1
+rnf-123, 60-1, 61-1
+624
+0
+epi-98, 602-1
+10
+Ok
+emi-90, 101-2
+Ok
+Ok
+minf-47, 104-1
+Ok
+5
+0
+538
+rnf-124, 113-3, 507-3
+Ok
+538
+624
+Group does not exist
+Ok
+einf-163, 87-1
+0
+epi-99, 94-2
+Ok
+2828
+pinf-151, 692-1
+624
+538
+Ok
+0
+1815
+Ok
+0
+einf-164, 13-3
+rnf-125, 375-2, 385-2
+0
+einf-165, 10-6
+None
+0
+None
+Ok
+Ok
+0
+Ok
+0
+Ok
+Ok
+pinf-152, 683-1
+0
+0
+Ok
+einf-166, 92-1
+0
+624
+Ok
+Ok
+0
+Ok
+0
+epi-100, 245-1
+Ok
+einf-167, 33-3
+Ok
+Ok
+0
+None
+Ok
+None
+The person with this number does not exist
+None
+Ok
+0
+625
+6
+Ok
+einf-168, 80-1
+einf-169, 88-1
+2967
+Ok
+0
+0
+None
+pinf-153, 676-1
+0
+0
+pinf-154, 379-3
+einf-170, 69-2
+625
+Ok
+0
+625
+0
+einf-171, 89-1
+einf-172, 86-2
+250
+Ok
+Ok
+emi-91, 103-1
+Ok
+rnf-126, 72-3, 545-1
+Ok
+einf-173, 90-1
+epi-101, 414-1
+Group does not exist
+Ok
+627
+0
+0
+627
+None
+emi-92, 502-1
+emi-93, 552-1
+Ok
+pinf-155, 643-2
+0
+rnf-127, 86-3, 312-3
+Ok
+Ok
+Ok
+535
+epi-102, 98-1
+7
+None
+rnf-128, 365-2, 430-2
+4096
+Ok
+Ok
+0
+0
+0
+pinf-156, 46-1
+einf-174, 72-2
+Ok
+0
+0
+534
+5
+rnf-129, 397-1, 547-1
+Ok
+1
+534
+einf-175, 91-1
+627
+emi-94, 283-1
+einf-176, 20-3
+0
+Ok
+Ok
+einf-177, 60-3
+535
+None
+0
+0
+535
+pinf-157, 670-1
+0
+einf-178, 92-2
+628
+Ok
+rnf-130, 71-2, 556-2
+einf-179, 10-7
+pinf-158, 654-1
+0
+0
+Ok
+einf-180, 93-1
+0
+einf-181, 65-1
+0
+2967
+minf-48, 65-1
+1
+0
+Ok
+Ok
+einf-182, 82-2
+0
+628
+534
+Ok
+Ok
+536
+Ok
+536
+536
+0
+rnf-131, 102-1, 487-1
+ginf-52, 1-41
+einf-183, 49-2
+einf-184, 94-1
+Group does not exist
+5
+630
+0
+Ok
+0
+ginf-53, 1-42
+einf-185, 33-4
+630
+ginf-54, 1-43
+emi-95, 600-1
+epi-103, 150-1
+7
+Ok
+535
+einf-186, 96-1
+0
+emi-96, 61-1
+None
+7
+0
+einf-187, 57-3
+9
+pinf-159, 183-1
+0
+9
+0
+pinf-160, 660-1
+0
+None
+Ok
+Ok
+None
+pinf-161, 29-1
+Ok
+einf-188, 97-1
+Ok
+Ok
+einf-189, 106-1
+3191
+0
+epi-104, 221-1
+Ok
+0
+1
+Ok
+0
+0
+0
+emi-97, 74-2
+0
+Ok
+Ok
+2216
+emi-98, 70-2
+3053
+886
+635
+539
+0
+0
+None
+539
+Ok
+0
+The person with this number does not exist
+Ok
+0
+Ok
+Ok
+635
+ginf-55, 1-44
+emi-99, 377-1
+epi-105, 575-1
+einf-190, 75-1
+pinf-162, 70-1
+rnf-132, 221-2, 599-1
+0
+Ok
+einf-191, 58-1
+Ok
+The person with this number does not exist
+Ok
+Ok
+Ok
+0
+minf-49, 114-1
+None
+Ok
+537
+einf-192, 106-2
+Ok
+636
+Ok
+0
+0
+7
+epi-106, 448-1
+636
+rnf-133, 274-1, 578-1
+Ok
+Ok
+0
+0
+636
+Ok
+Ok
+Ok
+emi-100, 449-1
+The person with this number does not exist
+0
+Ok
+The person with this number does not exist
+epi-107, 472-1
+einf-193, 70-3
+0
+pinf-163, 474-4
+2834
+0
+epi-108, 434-1
+Ok
+0
+2227
+Ok
+0
+538
+Ok
+0
+Ok
+emi-101, 97-1
+0
+None
+2
+emi-102, 107-1
+0
+Ok
+pinf-164, 498-1
+8
+rnf-134, 348-2, 592-1
+emi-103, 391-1
+637
+0
+0
+einf-194, 103-1
+einf-195, 21-4
+538
+einf-196, 104-1
+rnf-135, 63-1, 165-1
+0
+538
+0
+Ok
+Ok
+0
+0
+637
+Ok
+Ok
+emi-104, 38-1
+0
+Ok
+353
+Ok
+ginf-56, 1-45
+2967
+minf-50, 116-1
+5
+ginf-57, 1-46
+ginf-58, 1-47
+638
+The person with this number does not exist
+Ok
+0
+0
+2022
+1
+emi-105, 597-1
+einf-197, 105-1
+The person with this number does not exist
+epi-109, 304-1
+epi-110, 375-1
+0
+The person with this number does not exist
+4
+Ok
+0
+epi-111, 17-2
+0
+einf-198, 102-1
+12
+None
+Ok
+Ok
+Ok
+emi-106, 29-2
+638
+0
+0
+7
+Ok
+einf-199, 107-1
+639
+Ok
+1815
+einf-200, 33-5
+0
+0
+None
+minf-51, 75-1
+0
+None
+ginf-59, 1-48
+639
+pinf-165, 643-3
+None
+Ok
+539
+einf-201, 103-2
+0
+The person with this number does not exist
+539
+pinf-166, 687-1
+Ok
+0
+0
+rnf-136, 86-4, 290-1
+pinf-167, 668-1
+rnf-137, 112-1, 220-2
+0
+Ok
+Ok
+Ok
+rnf-138, 144-2, 189-1
+Ok
+0
+Ok
+Ok
+Ok
+Ok
+None
+epi-112, 226-1
+None
+4616
+Ok
+pinf-168, 679-1
+8
+4096
+0
+0
+540
+0
+5
+642
+Ok
+642
+None
+Ok
+einf-202, 46-3
+Ok
+einf-203, 108-1
+642
+emi-107, 516-1
+642
+emi-108, 345-1
+emi-109, 345-2
+3014
+0
+rnf-139, 79-2, 412-1
+Ok
+epi-113, 51-2
+0
+642
+0
+Ok
+pinf-169, 708-1
+None
+emi-110, 565-1
+Ok
+emi-111, 302-1
+643
+541
+einf-204, 109-1
+emi-112, 40-2
+None
+643
+0
+Ok
+epi-114, 29-2
+emi-113, 218-1
+epi-115, 245-2
+Group does not exist
+None
+0
+None
+pinf-170, 660-2
+einf-205, 73-1
+Ok
+None
+Ok
+0
+Ok
+541
+643
+Ok
+6
+rnf-140, 60-2, 219-1
+emi-114, 320-2
+Ok
+0
+rnf-141, 171-1, 634-1
+emi-115, 296-1
+643
+Ok
+542
+rnf-142, 176-4, 588-1
+Group does not exist
+542
+None
+emi-116, 221-1
+rnf-143, 41-5, 444-1
+0
+Ok
+Ok
+1
+886
+epi-116, 491-1
+pinf-171, 656-2
+None
+644
+rnf-144, 64-2, 334-1
+0
+Ok
+0
+0
+emi-117, 511-1
+Ok
+0
+541
+1
+0
+Ok
+Ok
+0
+emi-118, 606-1
+Ok
+542
+Ok
+ginf-60, 1-49
+645
+Ok
+Ok
+Ok
+Ok
+Ok
+rnf-145, 64-3, 335-2
+Ok
+0
+Ok
+Ok
+emi-119, 529-1
+4
+Ok
+rnf-146, 79-3, 412-2
+The person with this number does not exist
+rnf-147, 375-3, 385-3
+0
+emi-120, 89-2
+einf-206, 15-2
+einf-207, 6-1
+4
+886
+0
+544
+0
+epi-117, 352-1
+0
+Ok
+0
+Ok
+8
+886
+Ok
+722
+353
+4343
+0
+ginf-61, 1-50
+Ok
+None
+The person with this number does not exist
+0
+0
+Ok
+Ok
+0
+6
+epi-118, 25-1
+0
+Ok
+Ok
+emi-121, 290-1
+Ok
+pinf-172, 675-1
+0
+einf-208, 113-1
+0
+rnf-148, 403-1, 553-1
+Ok
+einf-209, 22-2
+0
+emi-122, 116-1
+0
+Ok
+epi-119, 419-1
+einf-210, 114-1
+rnf-149, 26-3, 353-2
+Ok
+0
+rnf-150, 37-1, 639-1
+einf-211, 10-8
+The person with this number does not exist
+4
+epi-120, 560-1
+einf-212, 115-1
+Ok
+None
+rnf-151, 261-1, 432-1
+pinf-173, 60-5
+Ok
+0
+emi-123, 380-1
+Ok
+0
+einf-213, 88-2
+pinf-174, 661-1
+0
+Ok
+Ok
+Ok
+einf-214, 117-1
+minf-52, 104-2
+Ok
+722
+epi-121, 320-1
+Ok
+einf-215, 118-1
+1
+pinf-175, 704-1
+epi-122, 96-1
+einf-216, 103-3
+rnf-152, 86-5, 312-4
+emi-124, 373-1
+0
+3093
+651
+einf-217, 49-3
+Group does not exist
+1
+The person with this number does not exist
+545
+651
+0
+emi-125, 49-1
+0
+The person with this number does not exist
+pinf-176, 498-2
+0
+651
+0
+Ok
+epi-123, 546-2
+The person with this number does not exist
+0
+Ok
+0
+pinf-177, 702-1
+Ok
+651
+543
+pinf-178, 690-1
+Ok
+4343
+0
+emi-126, 263-1
+Ok
+0
+rnf-153, 286-1, 427-1
+None
+543
+epi-124, 555-1
+emi-127, 12-1
+0
+einf-218, 35-3
+0
+emi-128, 86-2
+pinf-179, 491-2
+minf-53, 131-1
+Ok
+Ok
+pinf-180, 669-1
+5
+543
+0
+pinf-181, 685-2
+0
+The person with this number does not exist
+einf-219, 19-2
+Ok
+652
+Ok
+0
+Ok
+epi-125, 520-1
+652
+pinf-182, 716-1
+pinf-183, 706-1
+2758
+Ok
+0
+Ok
+0
+pinf-184, 681-2
+rnf-154, 171-2, 634-2
+emi-129, 120-1
+einf-220, 121-1
+Ok
+einf-221, 106-3
+543
+epi-126, 107-2
+Ok
+pinf-185, 49-2
+pinf-186, 146-3
+Ok
+Ok
+Ok
+rnf-155, 114-1, 451-2
+0
+543
+0
+3478
+emi-130, 40-3
+epi-127, 402-2
+emi-131, 86-3
+pinf-187, 686-2
+Ok
+emi-132, 93-3
+0
+emi-133, 121-1
+Ok
+einf-222, 105-2
+Ok
+Ok
+Ok
+einf-223, 122-1
+0
+Ok
+0
+Ok
+0
+653
+The person with this number does not exist
+2130
+Group does not exist
+0
+653
+einf-224, 124-1
+541
+Ok
+0
+0
+654
+epi-128, 26-2
+einf-225, 115-2
+Ok
+emi-134, 122-1
+einf-226, 43-2
+einf-227, 57-4
+Ok
+pinf-188, 715-1
+einf-228, 125-1
+0
+minf-54, 129-1
+Ok
+654
+einf-229, 126-1
+Ok
+rnf-156, 376-2, 620-1
+Ok
+rnf-157, 186-1, 460-1
+epi-129, 74-1
+pinf-189, 661-2
+0
+Ok
+einf-230, 127-1
+rnf-158, 60-3, 61-2
+rnf-159, 34-2, 166-2
+Ok
+0
+Ok
+Ok
+Ok
+rnf-160, 46-1, 135-1
+einf-231, 128-1
+541
+2949
+Ok
+Ok
+Ok
+0
+Ok
+0
+Ok
+0
+Ok
+Ok
+Ok
+656
+epi-130, 441-1
+Ok
+4
+emi-135, 150-1
+Ok
+Ok
+None
+Ok
+0
+Ok
+Group does not exist
+ginf-62, 1-51
+0
+einf-232, 56-3
+rnf-161, 192-2, 301-1
+einf-233, 129-1
+Ok
+13
+epi-131, 634-1
+The person with this number does not exist
+ginf-63, 1-52
+Ok
+Ok
+None
+Ok
+0
+rnf-162, 308-1, 438-2
+539
+None
+rnf-163, 84-1, 418-1
+einf-234, 75-2
+pinf-190, 665-2
+Ok
+epi-132, 202-1
+rnf-164, 325-2, 549-1
+Ok
+0
+rnf-165, 186-2, 522-1
+rnf-166, 209-1, 542-1
+emi-136, 227-1
+0
+6
+Ok
+0
+0
+0
+Ok
+0
+None
+Group does not exist
+Ok
+538
+epi-133, 556-1
+0
+538
+pinf-191, 711-1
+emi-137, 41-1
+0
+538
+pinf-192, 20-1
+pinf-193, 183-2
+538
+0
+10
+Ok
+Ok
+emi-138, 191-1
+Ok
+Ok
+10
+einf-235, 95-1
+Group does not exist
+0
+14
+Ok
+einf-236, 143-1
+emi-139, 159-1
+Ok
+0
+0
+pinf-194, 474-5
+Ok
+0
+0
+4
+0
+657
+rnf-167, 288-1, 579-1
+The person with this number does not exist
+epi-134, 91-1
+657
+einf-237, 113-2
+Ok
+0
+Ok
+2837
+The person with this number does not exist
+pinf-195, 498-3
+Ok
+None
+537
+Ok
+3093
+einf-238, 132-1
+2783
+Ok
+Ok
+Ok
+538
+0
+538
+Ok
+Ok
+13
+pinf-196, 665-3
+0
+538
+einf-239, 137-1
+Ok
+Ok
+0
+538
+Ok
+rnf-168, 172-3, 497-3
+538
+722
+Ok
+538
+pinf-197, 674-1
+14
+epi-135, 614-1
+Ok
+emi-140, 223-1
+Ok
+0
+Ok
+0
+0
+0
+Ok
+None
+The person with this number does not exist
+Ok
+0
+11
+0
+0
+Ok
+rnf-169, 54-1, 150-1
+250
+660
+0
+Ok
+2093
+Ok
+None
+0
+Ok
+0
+pinf-198, 708-2
+pinf-199, 385-1
+539
+0
+0
+Ok
+Ok
+Ok
+einf-240, 138-1
+660
+The person with this number does not exist
+Group does not exist
+Ok
+einf-241, 44-2
+emi-141, 128-1
+0
+rnf-170, 133-1, 292-1
+Ok
+Ok
+pinf-200, 427-2
+Ok
+pinf-201, 125-1
+Ok
+0
+rnf-171, 120-1, 317-2
+660
+0
+660
+ginf-64, 1-53
+The person with this number does not exist
+emi-142, 110-1
+Ok
+Ok
+Ok
+0
+11
+Ok
+0
+None
+rnf-172, 133-2, 440-1
+pinf-202, 731-1
+einf-242, 87-2
+epi-136, 343-1
+emi-143, 60-1
+Ok
+None
+0
+einf-243, 134-1
+661
+6
+Ok
+epi-137, 428-1
+722
+Ok
+0
+None
+0
+rnf-173, 33-2, 285-1
+Ok
+0
+ginf-65, 1-54
+662
+Ok
+epi-138, 249-1
+0
+minf-55, 124-1
+0
+pinf-203, 732-1
+einf-244, 123-1
+Ok
+0
+0
+Ok
+0
+Ok
+pinf-204, 516-1
+pinf-205, 667-1
+rnf-174, 71-3, 486-4
+emi-144, 15-1
+5
+663
+Ok
+Ok
+pinf-206, 678-1
+0
+einf-245, 142-1
+Ok
+Ok
+pinf-207, 707-1
+0
+3681
+Ok
+Ok
+Ok
+0
+Ok
+0
+None
+250
+Ok
+Ok
+pinf-208, 717-1
+einf-246, 138-2
+5
+pinf-209, 156-3
+rnf-175, 166-3, 450-1
+emi-145, 109-1
+Ok
+The person with this number does not exist
+6
+663
+einf-247, 135-1
+epi-139, 623-1
+Ok
+2252
+663
+pinf-210, 667-2
+0
+0
+Ok
+Ok
+0
+Ok
+epi-140, 273-1
+664
+Ok
+540
+0
+emi-146, 102-1
+540
+Ok
+3711
+Ok
+886
+0
+0
+None
+emi-147, 31-1
+540
+Ok
+540
+0
+None
+Ok
+0
+Ok
+Ok
+1
+pinf-211, 49-3
+epi-141, 326-1
+Ok
+einf-248, 74-1
+pinf-212, 689-1
+pinf-213, 711-2
+The person with this number does not exist
+Ok
+rnf-176, 378-2, 561-1
+emi-148, 297-1
+2828
+Ok
+Ok
+einf-249, 46-4
+7
+pinf-214, 679-2
+pinf-215, 685-3
+rnf-177, 510-1, 598-1
+pinf-216, 699-1
+einf-250, 133-1
+epi-142, 11-2
+pinf-217, 666-2
+Ok
+0
+538
+Ok
+538
+4
+3452
+emi-149, 132-3
+pinf-218, 726-1
+664
+2
+Ok
+Ok
+pinf-219, 491-3
+Ok
+einf-251, 136-1
+0
+emi-150, 9-2
+Ok
+einf-252, 57-5
+Ok
+None
+einf-253, 118-2
+2093
+rnf-178, 454-1, 494-1
+0
+8
+Ok
+pinf-220, 534-1
+None
+None
+539
+665
+Ok
+emi-151, 133-1
+0
+pinf-221, 93-1
+The person with this number does not exist
+Ok
+Ok
+Ok
+Ok
+Ok
+0
+emi-152, 508-1
+pinf-222, 694-1
+None
+Ok
+Ok
+2970
+Ok
+Ok
+ginf-66, 1-55
+Ok
+Ok
+541
+einf-254, 137-2
+pinf-223, 677-2
+rnf-179, 151-4, 175-2
+rnf-180, 298-4, 629-1
+0
+0
+Ok
+5414
+541
+epi-143, 542-1
+Ok
+0
+0
+Ok
+0
+The person with this number does not exist
+The person with this number does not exist
+0
+Ok
+14
+540
+540
+rnf-181, 218-1, 348-3
+rnf-182, 415-2, 424-1
+1038
+rnf-183, 64-4, 335-3
+Ok
+0
+Ok
+epi-144, 310-2
+11
+rnf-184, 53-1, 61-3
+einf-255, 138-3
+0
+epi-145, 253-1
+11
+einf-256, 142-2
+538
+2093
+1
+einf-257, 121-2
+538
+Ok
+epi-146, 42-2
+538
+668
+Ok
+None
+epi-147, 449-1
+0
+Ok
+rnf-185, 84-2, 418-2
+537
+8
+14
+Ok
+einf-258, 139-1
+pinf-224, 20-2
+0
+epi-148, 19-1
+None
+668
+emi-153, 99-2
+einf-259, 96-2
+Ok
+rnf-186, 91-1, 505-1
+538
+538
+pinf-225, 690-2
+7
+0
+0
+rnf-187, 150-2, 257-1
+Ok
+8
+Ok
+Ok
+Ok
+Ok
+emi-154, 135-1
+538
+Ok
+0
+The person with this number does not exist
+0
+0
+epi-149, 95-2
+Ok
+None
+538
+pinf-226, 685-4
+Ok
+Ok
+14
+671
+rnf-188, 67-2, 499-2
+Ok
+The person with this number does not exist
+einf-260, 60-4
+Ok
+8
+0
+rnf-189, 146-2, 209-2
+pinf-227, 372-4
+rnf-190, 234-2, 426-1
+Ok
+pinf-228, 721-1
+einf-261, 141-1
+Ok
+einf-262, 114-2
+Group does not exist
+10
+Ok
+emi-155, 137-2
+672
+The person with this number does not exist
+0
+Ok
+0
+None
+None
+722
+Ok
+einf-263, 101-1
+Ok
+Ok
+pinf-229, 722-1
+Ok
+None
+Ok
+0
+Ok
+einf-264, 89-2
+8
+538
+Ok
+539
+0
+rnf-191, 275-4, 310-1
+pinf-230, 361-1
+0
+None
+pinf-231, 151-3
+emi-156, 333-1
+0
+1038
+0
+emi-157, 125-1
+Ok
+539
+Ok
+Ok
+Ok
+rnf-192, 143-1, 539-2
+The person with this number does not exist
+Ok
+emi-158, 108-1
+Ok
+Ok
+2093
+539
+2971
+Ok
+Ok
+pinf-232, 745-1
+The person with this number does not exist
+Ok
+0
+Ok
+einf-265, 13-4
+Ok
+The person with this number does not exist
+pinf-233, 722-2
+emi-159, 61-2
+None
+539
+The person with this number does not exist
+emi-160, 100-1
+539
+0
+emi-161, 17-2
+pinf-234, 17-2
+Ok
+Ok
+pinf-235, 63-1
+676
+rnf-193, 86-6, 312-5
+0
+538
+rnf-194, 63-2, 165-2
+epi-150, 479-1
+Ok
+Ok
+538
+epi-151, 390-1
+epi-152, 506-1
+Ok
+538
+538
+Ok
+rnf-195, 151-5, 175-3
+Ok
+Ok
+678
+pinf-236, 713-1
+None
+None
+0
+rnf-196, 315-1, 496-1
+0
+Ok
+pinf-237, 703-1
+678
+14
+14
+pinf-238, 725-1
+0
+4761
+emi-162, 86-4
+einf-266, 143-2
+Ok
+0
+0
+0
+Ok
+679
+4761
+Ok
+2774
+250
+Ok
+rnf-197, 188-1, 515-1
+0
+rnf-198, 89-1, 484-3
+Ok
+Ok
+2596
+None
+5414
+8
+0
+8
+Ok
+None
+540
+epi-153, 252-1
+The person with this number does not exist
+2971
+emi-163, 35-2
+Ok
+0
+rnf-199, 86-7, 481-1
+0
+Ok
+Ok
+Ok
+Ok
+None
+539
+emi-164, 143-1
+0
+Ok
+emi-165, 247-1
+einf-267, 144-1
+Ok
+Ok
+538
+5
+Ok
+0
+pinf-239, 474-6
+Ok
+Ok
+None
+Ok
+0
+Ok
+epi-154, 317-1
+2875
+Ok
+Ok
+Ok
+1
+Ok
+Ok
+rnf-200, 352-1, 378-3
+Ok
+emi-166, 27-1
+12
+Ok
+0
+emi-167, 32-1
+Ok
+epi-155, 358-1
+emi-168, 301-2
+2774
+Ok
+pinf-240, 715-2
+1
+11
+Ok
+541
+0
+Ok
+6
+Ok
+0
+686
+emi-169, 144-1
+0
+rnf-201, 343-1, 660-1
+pinf-241, 361-2
+None
+3310
+minf-56, 152-1
+None
+Ok
+The person with this number does not exist
+The person with this number does not exist
+0
+The person with this number does not exist
+2
+rnf-202, 103-1, 406-1
+2061
+Ok
+Ok
+2926
+0
+Ok
+Ok
+None
+pinf-242, 738-1
+Ok
+0
+None
+4761
+Ok
+Ok
+emi-170, 176-1
+emi-171, 8-1
+pinf-243, 718-1
+Ok
+Ok
+epi-156, 204-1
+einf-268, 68-2
+emi-172, 146-1
+emi-173, 24-1
+Ok
+Ok
+The person with this number does not exist
+2971
+0
+Ok
+minf-57, 104-3
+Ok
+Ok
+epi-157, 648-1
+ginf-67, 1-56
+0
+Ok
+None
+einf-269, 7-4
+Ok
+Ok
+None
+einf-270, 160-1
+None
+rnf-203, 234-3, 426-2
+emi-174, 148-1
+14
+einf-271, 115-3
+Ok
+15
+0
+Ok
+541
+2734
+Ok
+0
+Ok
+Ok
+The person with this number does not exist
+emi-175, 111-1
+None
+rnf-204, 49-1, 391-1
+pinf-244, 263-3
+None
+1038
+0
+einf-272, 35-4
+emi-176, 316-1
+einf-273, 159-1
+540
+Ok
+Ok
+Ok
+539
+Ok
+pinf-245, 742-1
+pinf-246, 695-1
+rnf-205, 32-1, 239-2
+0
+Ok
+539
+emi-177, 437-1
+pinf-247, 739-1
+0
+0
+Ok
+emi-178, 149-1
+688
+Ok
+Ok
+0
+0
+Ok
+Ok
+Ok
+Ok
+emi-179, 150-2
+rnf-206, 347-1, 587-1
+einf-274, 31-2
+Ok
+0
+emi-180, 630-1
+Ok
+541
+Ok
+Ok
+0
+0
+minf-58, 166-1
+Ok
+690
+emi-181, 383-1
+einf-275, 150-1
+2734
+0
+Ok
+3247
+0
+Ok
+Ok
+Ok
+None
+3357
+541
+Ok
+Ok
+0
+rnf-207, 310-2, 469-2
+1038
+einf-276, 80-2
+minf-59, 104-4
+pinf-248, 715-3
+0
+minf-60, 155-1
+Ok
+emi-182, 153-1
+Ok
+Ok
+None
+Ok
+Ok
+0
+Ok
+einf-277, 151-1
+The person with this number does not exist
+None
+Ok
+einf-278, 136-2
+Ok
+0
+0
+emi-183, 99-3
+Ok
+None
+None
+16
+Ok
+rnf-208, 241-1, 570-1
+The person with this number does not exist
+2971
+2734
+Ok
+None
+rnf-209, 172-4, 497-4
+544
+rnf-210, 148-1, 382-1
+None
+None
+emi-184, 154-1
+pinf-249, 165-4
+Ok
+rnf-211, 583-1, 600-1
+2799
+Ok
+epi-158, 50-2
+0
+pinf-250, 715-4
+Ok
+pinf-251, 772-1
+0
+Ok
+einf-279, 152-1
+pinf-252, 755-1
+Ok
+epi-159, 367-2
+0
+Ok
+0
+None
+Ok
+544
+0
+0
+None
+emi-185, 147-1
+4171
+544
+0
+0
+544
+Ok
+emi-186, 96-1
+pinf-253, 701-1
+pinf-254, 427-3
+544
+0
+einf-280, 10-9
+544
+The person with this number does not exist
+pinf-255, 751-1
+544
+Ok
+544
+emi-187, 129-1
+0
+0
+3357
+5
+Ok
+Ok
+einf-281, 154-1
+einf-282, 155-1
+543
+8
+minf-61, 141-1
+einf-283, 76-1
+emi-188, 142-1
+einf-284, 148-1
+543
+emi-189, 466-1
+emi-190, 394-2
+Ok
+3310
+pinf-256, 60-6
+Ok
+rnf-212, 385-4, 618-1
+Ok
+minf-62, 163-1
+rnf-213, 387-2, 553-2
+None
+einf-285, 164-1
+rnf-214, 71-4, 556-3
+Ok
+einf-286, 119-1
+rnf-215, 128-1, 575-1
+Ok
+Ok
+rnf-216, 89-2, 221-3
+Ok
+0
+Ok
+0
+Ok
+einf-287, 14-3
+emi-191, 490-1
+542
+None
+Ok
+pinf-257, 771-1
+emi-192, 54-1
+Ok
+None
+0
+pinf-258, 769-1
+None
+542
+minf-63, 52-2
+Ok
+Ok
+Ok
+2734
+Ok
+Ok
+Ok
+Ok
+Ok
+emi-193, 157-1
+Ok
+Ok
+emi-194, 381-1
+2950
+0
+0
+emi-195, 12-2
+15
+0
+Ok
+Ok
+epi-160, 156-1
+14
+einf-288, 12-4
+einf-289, 157-1
+Ok
+emi-196, 103-2
+Ok
+11
+pinf-259, 761-1
+Ok
+2799
+epi-161, 112-1
+Ok
+Ok
+None
+0
+einf-290, 112-1
+einf-291, 158-1
+pinf-260, 758-1
+Ok
+0
+Ok
+emi-197, 296-2
+pinf-261, 776-1
+2402
+epi-162, 108-1
+Ok
+pinf-262, 372-5
+Ok
+emi-198, 69-1
+Ok
+None
+emi-199, 159-2
+0
+Ok
+emi-200, 508-2
+emi-201, 137-3
+Ok
+458
+538
+Ok
+Ok
+0
+Ok
+0
+0
+einf-292, 0-9
+0
+Ok
+pinf-263, 709-1
+einf-293, 17-3
+Ok
+Ok
+epi-163, 119-1
+1570
+Ok
+Ok
+emi-202, 215-1
+3062
+0
+Ok
+Ok
+pinf-264, 739-2
+540
+Ok
+Ok
+0
+15
+Group does not exist
+emi-203, 78-2
+Ok
+0
+Ok
+Group does not exist
+5
+0
